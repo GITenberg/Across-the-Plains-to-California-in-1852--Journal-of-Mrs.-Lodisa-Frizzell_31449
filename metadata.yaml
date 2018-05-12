@@ -1,0 +1,31 @@
+_repo: Across-the-Plains-to-California-in-1852--Journal-of-Mrs.-Lodisa-Frizzell_31449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frizell, Lodisa
+    gutenberg_agent_id: '35230'
+    url: http://www.gutenberg.org/2009/agents/35230
+  editor:
+    agent_name: Paltsits, Victor Hugo
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '35231'
+    url: http://www.gutenberg.org/2009/agents/35231
+description: ''
+gutenberg_issued: '2010-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31449'
+  lccn: '15014092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Overland journeys to the Pacific'
+- !lcc 'F590.3'
+title: 'Across the Plains to California in 1852: Journal of Mrs. Lodisa Frizzell'
+url: http://www.gutenberg.org/ebooks/31449
